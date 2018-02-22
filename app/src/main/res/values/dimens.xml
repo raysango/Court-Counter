@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="top_padding_margin">20dp</dimen>
+    <dimen name="text_size">50sp</dimen>
+    <dimen name="button_width">150dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_padding">35dp</dimen>
+</resources>
