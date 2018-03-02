@@ -4,4 +4,7 @@
     <dimen name="button_width">150dp</dimen>
     <dimen name="button_height">40dp</dimen>
     <dimen name="button_padding">35dp</dimen>
+    <dimen name="break_width">1.5dp</dimen>
+    <dimen name="break_height">300dp</dimen>
+    <dimen name="break_margin_top">15dp</dimen>
 </resources>
