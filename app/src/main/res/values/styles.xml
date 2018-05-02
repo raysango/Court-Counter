@@ -8,4 +8,24 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Button">
+        <item name="android:layout_width">@dimen/button_width</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/top_padding_margin</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:onClick">incrementTeamB</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Score">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:text">0</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+
 </resources>
